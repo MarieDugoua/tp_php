@@ -1,0 +1,60 @@
+/* main */
+
+.main
+{
+   margin: 5%;
+}
+.colTab
+{
+  margin: 2%;
+  border: solid 1px;
+  border-color: gainsboro;
+}
+.colTab:hover
+{
+  cursor: pointer;
+  background-color: gainsboro;
+}
+
+/* Main connexion */
+.connectBox, .addUserBox
+{
+  margin: 20%;
+}
+.formBox
+{
+  width: 100%;
+}
+.errorConnect
+{
+  text-align: center;
+  color: red;
+}
+/* Main offer & apply */
+
+  .card
+  {
+    margin: 5%;
+  }
+
+ /* Main my account */
+
+ .accountRow ul
+ {
+  margin-top: 5%;
+  margin-left: 1%;
+ }
+
+ /* Main contact */
+.sltContact 
+{
+  padding: 0 15px 0 15px;
+}
+ .btnContact
+ {
+
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+
+ }
